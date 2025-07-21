@@ -1,0 +1,648 @@
+{
+  "movie_recommendations": {
+    "Empire Strikes Back, The (1980)": [
+      {
+        "movie": "Star Wars (1977)",
+        "confidence": 0.718,
+        "support": 0.079,
+        "lift": 2.29
+      },
+      {
+        "movie": "Raiders of the Lost Ark (1981)",
+        "confidence": 0.592,
+        "support": 0.065,
+        "lift": 3.968
+      }
+    ],
+    "Return of the Jedi (1983)": [
+      {
+        "movie": "Star Wars (1977)",
+        "confidence": 0.712,
+        "support": 0.161,
+        "lift": 2.271
+      },
+      {
+        "movie": "Godfather, The (1972)",
+        "confidence": 0.349,
+        "support": 0.079,
+        "lift": 1.541
+      },
+      {
+        "movie": "Contact (1997)",
+        "confidence": 0.349,
+        "support": 0.079,
+        "lift": 1.3
+      },
+      {
+        "movie": "Toy Story (1995)",
+        "confidence": 0.315,
+        "support": 0.071,
+        "lift": 1.585
+      },
+      {
+        "movie": "Fargo (1996)",
+        "confidence": 0.315,
+        "support": 0.071,
+        "lift": 1.159
+      }
+    ],
+    "Alien (1979)": [
+      {
+        "movie": "Star Wars (1977)",
+        "confidence": 0.647,
+        "support": 0.051,
+        "lift": 2.063
+      }
+    ],
+    "Men in Black (1997)": [
+      {
+        "movie": "Star Wars (1977)",
+        "confidence": 0.639,
+        "support": 0.082,
+        "lift": 2.036
+      },
+      {
+        "movie": "Return of the Jedi (1983)",
+        "confidence": 0.494,
+        "support": 0.064,
+        "lift": 2.179
+      },
+      {
+        "movie": "Toy Story (1995)",
+        "confidence": 0.458,
+        "support": 0.059,
+        "lift": 2.303
+      },
+      {
+        "movie": "Fargo (1996)",
+        "confidence": 0.41,
+        "support": 0.053,
+        "lift": 1.507
+      }
+    ],
+    "Indiana Jones and the Last Crusade (1989)": [
+      {
+        "movie": "Raiders of the Lost Ark (1981)",
+        "confidence": 0.6,
+        "support": 0.051,
+        "lift": 4.025
+      },
+      {
+        "movie": "Star Wars (1977)",
+        "confidence": 0.6,
+        "support": 0.051,
+        "lift": 1.913
+      }
+    ],
+    "Raiders of the Lost Ark (1981)": [
+      {
+        "movie": "Star Wars (1977)",
+        "confidence": 0.594,
+        "support": 0.089,
+        "lift": 1.893
+      },
+      {
+        "movie": "Empire Strikes Back, The (1980)",
+        "confidence": 0.438,
+        "support": 0.065,
+        "lift": 3.968
+      },
+      {
+        "movie": "Return of the Jedi (1983)",
+        "confidence": 0.438,
+        "support": 0.065,
+        "lift": 1.93
+      },
+      {
+        "movie": "Silence of the Lambs, The (1991)",
+        "confidence": 0.385,
+        "support": 0.057,
+        "lift": 2.298
+      },
+      {
+        "movie": "Indiana Jones and the Last Crusade (1989)",
+        "confidence": 0.344,
+        "support": 0.051,
+        "lift": 4.025
+      }
+    ],
+    "Apt Pupil (1998)": [
+      {
+        "movie": "Good Will Hunting (1997)",
+        "confidence": 0.587,
+        "support": 0.057,
+        "lift": 4.669
+      }
+    ],
+    "Good Will Hunting (1997)": [
+      {
+        "movie": "Titanic (1997)",
+        "confidence": 0.568,
+        "support": 0.071,
+        "lift": 2.438
+      },
+      {
+        "movie": "Apt Pupil (1998)",
+        "confidence": 0.457,
+        "support": 0.057,
+        "lift": 4.669
+      }
+    ],
+    "Willy Wonka and the Chocolate Factory (1971)": [
+      {
+        "movie": "Fargo (1996)",
+        "confidence": 0.557,
+        "support": 0.053,
+        "lift": 2.051
+      },
+      {
+        "movie": "Star Wars (1977)",
+        "confidence": 0.541,
+        "support": 0.051,
+        "lift": 1.725
+      }
+    ],
+    "Star Trek: First Contact (1996)": [
+      {
+        "movie": "Star Wars (1977)",
+        "confidence": 0.541,
+        "support": 0.071,
+        "lift": 1.725
+      },
+      {
+        "movie": "Return of the Jedi (1983)",
+        "confidence": 0.482,
+        "support": 0.064,
+        "lift": 2.128
+      },
+      {
+        "movie": "Contact (1997)",
+        "confidence": 0.388,
+        "support": 0.051,
+        "lift": 1.445
+      }
+    ],
+    "Secrets & Lies (1996)": [
+      {
+        "movie": "Fargo (1996)",
+        "confidence": 0.541,
+        "support": 0.051,
+        "lift": 1.991
+      }
+    ],
+    "Mr. Holland's Opus (1995)": [
+      {
+        "movie": "Star Wars (1977)",
+        "confidence": 0.533,
+        "support": 0.062,
+        "lift": 1.7
+      }
+    ],
+    "Fugitive, The (1993)": [
+      {
+        "movie": "Star Wars (1977)",
+        "confidence": 0.531,
+        "support": 0.053,
+        "lift": 1.694
+      }
+    ],
+    "Godfather, The (1972)": [
+      {
+        "movie": "Star Wars (1977)",
+        "confidence": 0.527,
+        "support": 0.12,
+        "lift": 1.681
+      },
+      {
+        "movie": "Fargo (1996)",
+        "confidence": 0.411,
+        "support": 0.093,
+        "lift": 1.512
+      },
+      {
+        "movie": "Return of the Jedi (1983)",
+        "confidence": 0.349,
+        "support": 0.079,
+        "lift": 1.541
+      }
+    ],
+    "Boot, Das (1981)": [
+      {
+        "movie": "Godfather, The (1972)",
+        "confidence": 0.524,
+        "support": 0.051,
+        "lift": 2.311
+      }
+    ],
+    "Twelve Monkeys (1995)": [
+      {
+        "movie": "Fargo (1996)",
+        "confidence": 0.523,
+        "support": 0.071,
+        "lift": 1.924
+      },
+      {
+        "movie": "Star Wars (1977)",
+        "confidence": 0.386,
+        "support": 0.053,
+        "lift": 1.232
+      }
+    ],
+    "Toy Story (1995)": [
+      {
+        "movie": "Star Wars (1977)",
+        "confidence": 0.516,
+        "support": 0.102,
+        "lift": 1.644
+      },
+      {
+        "movie": "Fargo (1996)",
+        "confidence": 0.391,
+        "support": 0.078,
+        "lift": 1.438
+      },
+      {
+        "movie": "Return of the Jedi (1983)",
+        "confidence": 0.359,
+        "support": 0.071,
+        "lift": 1.585
+      },
+      {
+        "movie": "Rock, The (1996)",
+        "confidence": 0.328,
+        "support": 0.065,
+        "lift": 2.322
+      }
+    ],
+    "Star Wars (1977)": [
+      {
+        "movie": "Return of the Jedi (1983)",
+        "confidence": 0.515,
+        "support": 0.161,
+        "lift": 2.271
+      },
+      {
+        "movie": "Godfather, The (1972)",
+        "confidence": 0.381,
+        "support": 0.12,
+        "lift": 1.681
+      },
+      {
+        "movie": "Fargo (1996)",
+        "confidence": 0.342,
+        "support": 0.107,
+        "lift": 1.257
+      },
+      {
+        "movie": "Toy Story (1995)",
+        "confidence": 0.327,
+        "support": 0.102,
+        "lift": 1.644
+      },
+      {
+        "movie": "Contact (1997)",
+        "confidence": 0.307,
+        "support": 0.096,
+        "lift": 1.143
+      }
+    ],
+    "Jerry Maguire (1996)": [
+      {
+        "movie": "Star Wars (1977)",
+        "confidence": 0.495,
+        "support": 0.07,
+        "lift": 1.577
+      },
+      {
+        "movie": "Fargo (1996)",
+        "confidence": 0.462,
+        "support": 0.065,
+        "lift": 1.698
+      },
+      {
+        "movie": "Toy Story (1995)",
+        "confidence": 0.407,
+        "support": 0.057,
+        "lift": 2.046
+      },
+      {
+        "movie": "Independence Day (ID4) (1996)",
+        "confidence": 0.363,
+        "support": 0.051,
+        "lift": 2.78
+      }
+    ],
+    "Independence Day (ID4) (1996)": [
+      {
+        "movie": "Star Wars (1977)",
+        "confidence": 0.488,
+        "support": 0.064,
+        "lift": 1.556
+      },
+      {
+        "movie": "Return of the Jedi (1983)",
+        "confidence": 0.452,
+        "support": 0.059,
+        "lift": 1.995
+      },
+      {
+        "movie": "Toy Story (1995)",
+        "confidence": 0.417,
+        "support": 0.054,
+        "lift": 2.096
+      },
+      {
+        "movie": "Fargo (1996)",
+        "confidence": 0.405,
+        "support": 0.053,
+        "lift": 1.49
+      },
+      {
+        "movie": "Jerry Maguire (1996)",
+        "confidence": 0.393,
+        "support": 0.051,
+        "lift": 2.78
+      }
+    ],
+    "Trainspotting (1996)": [
+      {
+        "movie": "Fargo (1996)",
+        "confidence": 0.486,
+        "support": 0.053,
+        "lift": 1.787
+      }
+    ],
+    "Rock, The (1996)": [
+      {
+        "movie": "Star Wars (1977)",
+        "confidence": 0.484,
+        "support": 0.068,
+        "lift": 1.542
+      },
+      {
+        "movie": "Toy Story (1995)",
+        "confidence": 0.462,
+        "support": 0.065,
+        "lift": 2.322
+      },
+      {
+        "movie": "Return of the Jedi (1983)",
+        "confidence": 0.396,
+        "support": 0.056,
+        "lift": 1.745
+      }
+    ],
+    "Leaving Las Vegas (1995)": [
+      {
+        "movie": "Godfather, The (1972)",
+        "confidence": 0.467,
+        "support": 0.054,
+        "lift": 2.058
+      },
+      {
+        "movie": "Fargo (1996)",
+        "confidence": 0.467,
+        "support": 0.054,
+        "lift": 1.717
+      }
+    ],
+    "Conspiracy Theory (1997)": [
+      {
+        "movie": "Air Force One (1997)",
+        "confidence": 0.465,
+        "support": 0.062,
+        "lift": 2.052
+      },
+      {
+        "movie": "Titanic (1997)",
+        "confidence": 0.419,
+        "support": 0.056,
+        "lift": 1.797
+      }
+    ],
+    "Dead Man Walking (1995)": [
+      {
+        "movie": "Fargo (1996)",
+        "confidence": 0.465,
+        "support": 0.051,
+        "lift": 1.71
+      }
+    ],
+    "Pulp Fiction (1994)": [
+      {
+        "movie": "Silence of the Lambs, The (1991)",
+        "confidence": 0.457,
+        "support": 0.057,
+        "lift": 2.724
+      },
+      {
+        "movie": "Star Wars (1977)",
+        "confidence": 0.457,
+        "support": 0.057,
+        "lift": 1.456
+      },
+      {
+        "movie": "Raiders of the Lost Ark (1981)",
+        "confidence": 0.407,
+        "support": 0.051,
+        "lift": 2.733
+      }
+    ],
+    "Silence of the Lambs, The (1991)": [
+      {
+        "movie": "Star Wars (1977)",
+        "confidence": 0.454,
+        "support": 0.076,
+        "lift": 1.446
+      },
+      {
+        "movie": "Fargo (1996)",
+        "confidence": 0.38,
+        "support": 0.064,
+        "lift": 1.397
+      },
+      {
+        "movie": "Pulp Fiction (1994)",
+        "confidence": 0.343,
+        "support": 0.057,
+        "lift": 2.724
+      },
+      {
+        "movie": "Raiders of the Lost Ark (1981)",
+        "confidence": 0.343,
+        "support": 0.057,
+        "lift": 2.298
+      },
+      {
+        "movie": "Schindler's List (1993)",
+        "confidence": 0.315,
+        "support": 0.053,
+        "lift": 2.414
+      }
+    ],
+    "Schindler's List (1993)": [
+      {
+        "movie": "Star Wars (1977)",
+        "confidence": 0.429,
+        "support": 0.056,
+        "lift": 1.366
+      },
+      {
+        "movie": "Silence of the Lambs, The (1991)",
+        "confidence": 0.405,
+        "support": 0.053,
+        "lift": 2.414
+      }
+    ],
+    "Sense and Sensibility (1995)": [
+      {
+        "movie": "Star Wars (1977)",
+        "confidence": 0.419,
+        "support": 0.056,
+        "lift": 1.335
+      }
+    ],
+    "Fargo (1996)": [
+      {
+        "movie": "Star Wars (1977)",
+        "confidence": 0.394,
+        "support": 0.107,
+        "lift": 1.257
+      },
+      {
+        "movie": "Godfather, The (1972)",
+        "confidence": 0.343,
+        "support": 0.093,
+        "lift": 1.512
+      }
+    ],
+    "L.A. Confidential (1997)": [
+      {
+        "movie": "Contact (1997)",
+        "confidence": 0.382,
+        "support": 0.065,
+        "lift": 1.421
+      },
+      {
+        "movie": "Fargo (1996)",
+        "confidence": 0.318,
+        "support": 0.054,
+        "lift": 1.171
+      },
+      {
+        "movie": "Titanic (1997)",
+        "confidence": 0.309,
+        "support": 0.053,
+        "lift": 1.327
+      },
+      {
+        "movie": "Full Monty, The (1997)",
+        "confidence": 0.3,
+        "support": 0.051,
+        "lift": 1.741
+      },
+      {
+        "movie": "English Patient, The (1996)",
+        "confidence": 0.3,
+        "support": 0.051,
+        "lift": 1.263
+      }
+    ],
+    "Liar Liar (1997)": [
+      {
+        "movie": "Contact (1997)",
+        "confidence": 0.361,
+        "support": 0.061,
+        "lift": 1.344
+      },
+      {
+        "movie": "Star Wars (1977)",
+        "confidence": 0.352,
+        "support": 0.059,
+        "lift": 1.122
+      },
+      {
+        "movie": "Air Force One (1997)",
+        "confidence": 0.333,
+        "support": 0.056,
+        "lift": 1.47
+      }
+    ],
+    "Contact (1997)": [
+      {
+        "movie": "Star Wars (1977)",
+        "confidence": 0.358,
+        "support": 0.096,
+        "lift": 1.143
+      }
+    ],
+    "Scream (1996)": [
+      {
+        "movie": "Titanic (1997)",
+        "confidence": 0.353,
+        "support": 0.065,
+        "lift": 1.515
+      },
+      {
+        "movie": "Contact (1997)",
+        "confidence": 0.319,
+        "support": 0.059,
+        "lift": 1.189
+      }
+    ],
+    "Full Monty, The (1997)": [
+      {
+        "movie": "English Patient, The (1996)",
+        "confidence": 0.342,
+        "support": 0.059,
+        "lift": 1.441
+      }
+    ],
+    "Air Force One (1997)": [
+      {
+        "movie": "Contact (1997)",
+        "confidence": 0.336,
+        "support": 0.076,
+        "lift": 1.249
+      },
+      {
+        "movie": "Titanic (1997)",
+        "confidence": 0.301,
+        "support": 0.068,
+        "lift": 1.294
+      }
+    ],
+    "English Patient, The (1996)": [
+      {
+        "movie": "Contact (1997)",
+        "confidence": 0.307,
+        "support": 0.073,
+        "lift": 1.144
+      },
+      {
+        "movie": "Fargo (1996)",
+        "confidence": 0.307,
+        "support": 0.073,
+        "lift": 1.13
+      }
+    ],
+    "Titanic (1997)": [
+      {
+        "movie": "Good Will Hunting (1997)",
+        "confidence": 0.307,
+        "support": 0.071,
+        "lift": 2.438
+      },
+      {
+        "movie": "Contact (1997)",
+        "confidence": 0.3,
+        "support": 0.07,
+        "lift": 1.117
+      }
+    ]
+  },
+  "model_info": {
+    "total_movies_with_recommendations": 38,
+    "frequent_itemsets_count": 218
+  }
+}
